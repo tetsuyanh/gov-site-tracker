@@ -1,0 +1,5 @@
+cron:
+  - description: "gov-site-tracker for yamaguchi"
+    url: /yamaguchi
+    timezone: Asia/Tokyo
+    schedule: every 1 hours
